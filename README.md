@@ -1,1 +1,1 @@
-# gen-aiad
+# gen-ai
